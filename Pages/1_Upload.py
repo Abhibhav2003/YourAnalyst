@@ -67,7 +67,6 @@ if option == "Upload File":
     uploaded_file = st.file_uploader("Choose Your File", type=['csv', 'xlsx', 'txt'])
 
     if uploaded_file is not None:
-        # st.session_state["uploaded_file"] = None
         progress_container = st.empty()
         bar = progress_container.progress(0)
 
