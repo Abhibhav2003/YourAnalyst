@@ -11,7 +11,7 @@ def login():
     username = st.text_input("Enter Username")
     password = st.text_input("Enter Password", type = "password")
     if st.button("Log in"):
-        if username == 'abhi' and password == 'Bhavi@123':
+        if username == 'user' and password == '1234':
            st.session_state.logged_in = True
            st.rerun()
         elif password == '' and username == '':
@@ -46,5 +46,8 @@ if st.session_state.logged_in:
     )
 else:
     pg = st.navigation([login_page])
+
+st.write("Username  : user")
+st.write("Password  : 1234")
 
 pg.run()

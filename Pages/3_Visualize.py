@@ -34,8 +34,7 @@ if 'df' in st.session_state:
     if 'charts' not in st.session_state:
         st.session_state.charts = []
    
-      
-
+   
     with st.container(key="Top"): 
         left, mid, right = st.columns([1, 1, 1])
         
