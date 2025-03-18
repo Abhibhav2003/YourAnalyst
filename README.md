@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20UI-red?style=for-the-badge&logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blueviolet?style=for-the-badge&logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-Data%20Visualization-00ccff?style=for-the-badge&logo=plotly)
+![Lottie](https://img.shields.io/badge/Lottie-Animations-ff69b4?style=for-the-badge&logo=lottiefiles)
+
 ## YourAnalyst
 
 YourAnalyst is a powerful and interactive data analysis web application built using Streamlit. This tool allows users to upload datasets, clean and analyze data, and visualize insights using various charting options.
