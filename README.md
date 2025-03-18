@@ -87,6 +87,12 @@ streamlit run Home.py
 🎨 Lottie Animations (for better UI/UX)
 
 
-### Contributing
+### 🤝 Contributing
 
-Feel free to contribute! Fork the repo, create a new branch, and submit a pull request.
+Contributions are welcome! 🎉 If you'd like to contribute, please follow these steps:
+
+1. 🍴 Fork this repository.
+2. 🌿 Create a new branch: `git checkout -b feature-branch`
+3. 🛠️ Make your changes and commit: `git commit -m "✨ Add a new feature"`
+4. 📤 Push to the branch: `git push origin feature-branch`
+5. 🔄 Open a Pull Request.
