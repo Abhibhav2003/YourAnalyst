@@ -57,15 +57,13 @@ Select data columns dynamically for visualization.
 
 Choose the number of rows to display in charts.
 
-### Installation & Setup
+### 🚀 Installation & Setup
 
 Clone the repository:
 
 git clone https://github.com/your-username/youranalyst.git
 
-cd youranalyst
-
-### Install dependencies:
+### 📦 Install dependencies:
 
 pip install -r requirements.txt
 
@@ -76,7 +74,7 @@ streamlit run Home.py
 #### Username = user
 #### Password = 1234
 
-### Technologies Used
+### 🔧 Technologies Used
 
 🐍 Python
 
