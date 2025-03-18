@@ -16,6 +16,7 @@ Users can upload CSV, XLSX, and TXT files.
 
 The uploaded file is stored in the session state for further processing.
 
+
 🔍 Data Analysis Section
 
 View and clean datasets with functionalities such as:
@@ -28,7 +29,7 @@ Dropping Rows
 
 Trimming 
 
-Replcaing 
+Replacing Values 
 
 Descriptive statistics (sum, mean, count, etc.).
 
