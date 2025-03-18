@@ -56,6 +56,7 @@ Choose the number of rows to display in charts.
 Clone the repository:
 
 git clone https://github.com/your-username/youranalyst.git
+
 cd youranalyst
 
 ### Install dependencies:
