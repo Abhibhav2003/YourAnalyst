@@ -72,15 +72,15 @@ streamlit run Home.py
 
 ### Technologies Used
 
-Python
+🐍 Python
 
-Streamlit (for web UI)
+🚀 Streamlit (for web UI)
 
-Pandas (for data analysis)
+📊 Pandas (for data analysis)
 
-Plotly (for data visualization)
+📈 Plotly (for data visualization)
 
-Lottie Animations (for better UI/UX)
+🎨 Lottie Animations (for better UI/UX)
 
 
 ### Contributing
