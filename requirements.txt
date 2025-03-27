@@ -10,7 +10,6 @@ bcrypt
 pathlib
 regex
 requests
-smtplib3
 email-validator
 secrets
 uuid
