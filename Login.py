@@ -1,8 +1,8 @@
 import streamlit as st
 import re
 import time
-from utils.user_manager import UserManager
-from utils.password_recovery import PasswordRecovery
+from user_manager import UserManager
+from password_recovery import PasswordRecovery
 import json
 from pathlib import Path
 
