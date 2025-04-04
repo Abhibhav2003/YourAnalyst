@@ -69,10 +69,7 @@ pip install -r requirements.txt
 
 ### Run the Streamlit app:
 
-streamlit run Home.py
-
-#### Username = user
-#### Password = 1234
+streamlit run Login.py
 
 ### 🔧 Technologies Used
 
