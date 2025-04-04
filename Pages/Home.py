@@ -321,7 +321,6 @@ st.markdown("""
 <div style='text-align: center; margin: 50px 0;'>
     <h2 style='color: #2c3e50; margin-bottom: 20px;'>Ready to Transform Your Data?</h2>
     <p style='color: #666; margin-bottom: 30px;'>Start your analysis journey today!</p>
-    <button class="cta-button">Get Started Now</button>
 </div>
 """, unsafe_allow_html=True)
 
